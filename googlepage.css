@@ -1,0 +1,32 @@
+header
+{
+	background-color: blue;
+}
+
+#center
+{
+	background-color: red;
+	text-align: -webkit-center;
+	padding: auto;
+	margin: 300px;
+
+}
+
+#footerleft
+{
+	background-color: yellow;
+	bottom: 0px;
+}
+#container
+{
+background-color: green;
+}
+*
+{
+	margin: 0px;
+	padding: 0px;
+}
+html
+{
+	background-color: purple;
+}
