@@ -1,15 +1,18 @@
 #header
 {
-	background-color: blue;
+	background-color: pink;
 	display: flex;
 	justify-content: flex-end;
+	padding-right: 30px;
+	padding-top: 20px;
+	font-size: 15px;
 }
 
 #center
 {
 	background-color: red;
 	text-align: -webkit-center;
-	
+
 
 }
 
@@ -17,7 +20,9 @@
 {
 	background-color: yellow;
 	margin: 0px;
-	font-size: 19px;
+	font-size: 15px;
+	padding-left: 25px;
+
 
 
 }
@@ -38,4 +43,42 @@ html, body
 {
 	background-color: purple;
 	height: 100%;
+}
+.buttons
+{
+	height: 30px;
+	font-size: 15px;
+	width: 170px;
+}
+#logo img
+{
+	height: auto;
+	width: 330px;
+	padding-bottom: 25px;
+}
+#navbar
+{
+	padding-bottom: 25px;
+}
+#navbar input
+{
+	width: 550px;
+	height: 30px;
+}
+#button1
+{
+	background-color: rgb(65, 134, 229);
+	color: #fff;
+}
+a
+{
+	padding-left: 10px;
+	padding-right: 10px;
+	text-decoration: none;
+	color: black;
+}
+#footerright
+{
+	display: flex;
+	justify-content: flex-end;
 }
